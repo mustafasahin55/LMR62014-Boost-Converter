@@ -10,3 +10,6 @@ This project involves a Texas Instruments LMR62014 DC-DC boost converter circuit
 
 ## Circuit Schematic
 The circuit schematic and detailed component list can be found in the [schematic](https://github.com/mustafasahin55/LMR62014-Boost-Converter/blob/main/Schematic.pdf) file. Refer to this file to assemble the circuit accurately.
+
+![LMR62014_Boost_Converter](https://github.com/user-attachments/assets/f824f6ce-8cc5-42c5-870b-dbfd00e5192e)
+
